@@ -1,5 +1,5 @@
 {
-  "name": "Salesforce 女子部 #19",
+  "name": "Salesforce Heroku DEMO",
   "description": "Sample: ソースコード",
   "env": {
     "NODE_ENV": {
@@ -7,6 +7,6 @@
       "value": "production"
     }
   },
-  "repository": "https://github.com/tabesfdc/sfggjp019",
+  "repository": "https://github.com/heroku-enablement/cicd",
   "success_url": "/"
 }
